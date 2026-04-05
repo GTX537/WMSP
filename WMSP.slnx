@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/backend/">
+    <Project Path="backend/WMSP.Api/WMSP.Api.csproj" />
+  </Folder>
+</Solution>

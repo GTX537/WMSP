@@ -1,0 +1,19 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "Frontend (Vue 3 + Vite)",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev"],
+      "port": 3000,
+      "cwd": "frontend"
+    },
+    {
+      "name": "Backend (.NET API)",
+      "runtimeExecutable": "dotnet",
+      "runtimeArgs": ["run"],
+      "port": 5000,
+      "cwd": "backend/WMSP.Api"
+    }
+  ]
+}
